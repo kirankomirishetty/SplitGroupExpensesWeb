@@ -6,7 +6,7 @@
 	<groupId>com.kss</groupId>
 	<artifactId>shared-expenses</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>SplitGroupExpensesWeb</name>
 	<description>Spring services to split the shared group expenses.</description>
